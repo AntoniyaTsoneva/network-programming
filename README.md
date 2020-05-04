@@ -24,8 +24,8 @@ You can stop the application by using the command:
 > exit
 ```
 
-_Installation of additional libraries is not needed._
+Installation of additional libraries is not needed.
 
-_Only internal packages are used - java.net package and java.util package_
+Only internal packages are used - java.net package and java.util package
 
-More information about the usage and the return codes: [Spamhaus DNSBL Usage](https://www.spamhaus.org/faq/section/DNSBL%2520Usage#200)
+_More information about the usage and the return codes:_ [Spamhaus DNSBL Usage](https://www.spamhaus.org/faq/section/DNSBL%2520Usage#200)
